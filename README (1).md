@@ -11,7 +11,7 @@ Power BI dashboards.
 
 # 🏗 Architecture Diagram
 
-![Architecture](architecture/architecture_diagram.png)
+![Architecture](architecture/pipeline_Architecture.png)
 
 ### Data Flow
 
@@ -151,11 +151,9 @@ Possible enhancements:
 
 # 👨‍💻 Author
 
-**Karthick S**\
-Computer Science Engineering\
-Hindusthan Institute of Technology
+**Karthick S**
 
-Skills: - Azure - Power BI - SQL - Data Engineering
+
 
 ------------------------------------------------------------------------
 
